@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "81Ok0ISjE0gbu1vQELBg6R",
-    "name" : "oracle",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100000B000000000005"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "as9mtZf2Qi5hbO2KbCqIMn",
     "name" : "INArunJ0801",
     "type" : "AgentGroup",
@@ -83,6 +63,26 @@
       }
     },
     "path" : "/Explore/Default"
+  }, {
+    "id" : "0MppBejP28cjUyLIN21jYm",
+    "name" : "mysql",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100000B000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "4cqwlaKa7CsfJCNansBqsY",
     "name" : "FlatFile",
